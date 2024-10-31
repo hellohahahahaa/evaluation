@@ -1,0 +1,254 @@
+img {
+    height: 400px;
+    margin: 25px;
+    border-radius: 20px;
+    width: 775;
+}
+
+h6 {
+    height: 100000px;
+    margin: 25px;
+    border-radius: 20px;
+    width: 775;
+}
+
+body {
+    background-color: lightblue;
+    padding: 210px;
+    height: 50px;
+}
+
+h1 {
+    margin: 25px;
+    color: white;
+}
+
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    font-size: 16px;
+    color: white;
+}
+
+main {
+    background-color: #323949;
+    border-radius: 20px;
+    text-align: left;
+    height: 2000px;
+}
+
+.outfit-uniquifier {
+    margin-left: 4.2%;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+h3 {
+    font-family: "Young Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    margin-left: 4.2%;
+    color:#212129;
+    font-size: 20px;
+}
+
+p {
+    margin-left: 4.2%;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    color: rgb(78, 78, 78);
+    font-size: 16px;
+}
+
+#prep-time {
+    background-color: rgb(255, 247, 250);
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+
+#secondpreptime {
+    background-color: rgb(255, 247, 250);
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+
+h4 {
+    margin-left: 4.2%;
+    font-family: "Young Serif", serif;
+    font-weight: 700px;
+    font-style: normal;
+    color: #212129;
+    font-size: 25px;
+}
+
+h5 {
+    font-family: "Young Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    margin-left: 4.2%;
+    color:white;
+    font-size: 20px; 
+}
+   
+
+#bull {
+    color: #734A38;
+    margin-right: 3%;
+}
+
+#bull1 {
+    color: rgb(160, 111, 132);
+}
+
+hr {
+    width: 90%;
+    margin: auto auto;
+    opacity: 40%;
+}
+
+#spacing {
+    margin-right: 34%;
+    margin-left: 4.5%;
+}
+
+#spacing2 {
+
+    margin-left: 4.2%;
+    margin-right: 34.4%;
+    margin-left: 8.5%;
+    margin-bottom: 4%;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+#spacing3 {
+    margin-left: 4.2%;
+    margin-right: 33.2%;
+    margin-left: 8.5%;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+#spacing4 {
+    margin-left: 4.2%;
+    margin-right: 36.6%;
+    margin-left: 8.6%;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.boldtext {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+ul {
+    list-style-type: none;
+    background-color:#3D3E51;
+    margin: 0%;
+    padding: 10px;
+    overflow: hidden;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+li {
+    flex-direction: column;
+    float: left;
+}
+
+li a {
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:black;
+}
+
+
+#ingredients {
+    background-color: rgb(255, 247, 250);
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    border-radius: 20px;
+    margin-left: 5%; }
+
+#instructions {
+    background-color: rgb(255, 247, 250);
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    border-radius: 20px;
+    margin-left: 5%; }
+
+#nutrition {
+    background-color: rgb(255, 247, 250);
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+
+
+
+  
+
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 500px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;} 
+  
+ 
